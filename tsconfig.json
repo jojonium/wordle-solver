@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["dom", "es2021"],
+    "lib": ["es2017", "dom"],
 	"forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitAny": true,
