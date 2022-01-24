@@ -1,6 +1,6 @@
 # wordle-solver
 
-Prints the solution to today's [https://www.powerlanguage.co.uk/wordle/](Wordle)
+Prints the solution to today's [Wordle](https://www.powerlanguage.co.uk/wordle/)
 by default. To see another day's solution provide the desired date as a
 command-line argument, e.g. `node index.js 2022-01-24`. This accepts any date
 format accepted by JavaScript's `Date()` constructor.
